@@ -1,0 +1,17 @@
+.top{
+    background-color: coral;
+    padding: 5px;
+    text-align: center;
+}
+
+html, body{
+    height: 100%;
+}
+
+.titlecolor{
+    background-color: lightblue;
+}
+
+footer{
+    text-align: center;
+}
